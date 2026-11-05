@@ -24,8 +24,9 @@ The `thicket` command-line tool and the Claude Code plugin stay in
 `thicket-cli`. Never put a plugin manifest (`plugin.json`, `.claude-plugin/`,
 `.cursor-plugin/plugin.json`) at this repository's root: an indexer that
 follows a manifest's `repository` link must find only the Cursor index here.
-That is why the plugins moved out of `thicket-cli` on 2026-11-04, where the
-Claude Code plugin's root manifest was what Grok Bot showed for "thicket".
+The plugins moved out of `thicket-cli` on 2026-11-04 for that reason, after
+Grok Bot's catalog showed the Claude Code plugin for "thicket" (Cursor's
+import of the plugin installed on the iMac, private to that account).
 
 Everything here is public product copy: no competitor names (the validator
 keeps its guard encoded), no em dashes in READMEs, skills or manifests, and
