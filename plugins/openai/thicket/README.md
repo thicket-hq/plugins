@@ -2,7 +2,7 @@
 
 The plugin package behind Thicket's listing in the ChatGPT plugin directory: Thicket's hosted remote [Model Context Protocol](https://modelcontextprotocol.io/) server, built and run by Vesperion Gate, with two bundled skills (`thicket`, how to work in a Thicket project, and `setup`, the guided first run).
 
-Find, read and update to-dos, cards, messages, comments, docs, schedule entries, chat and time entries in the Thicket organizations of the person who signs in.
+Find, read and update to-dos, cards, messages, comments, docs, calendar events, chat and time entries in the Thicket organizations of the person who signs in.
 
 ## Install
 

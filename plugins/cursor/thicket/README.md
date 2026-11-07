@@ -36,7 +36,7 @@ Sign-in is OAuth 2.1 with PKCE. Cursor registers itself with Thicket and opens T
 | Messages, comments and docs | Read and post messages under a category, pin them, read and post comments; read, write and update docs, publish a draft |
 | Chat | Read and post in a project's chat; list, start and post in private chats |
 | Check-ins | Read a project's questions and everyone's answers, answer yours, correct an answer |
-| Schedule and time | Read schedule entries, add and change events; read, log and update time |
+| Calendar and time | Read calendar events, add and change them; read, log and update time |
 | Reports and activity | What's overdue across projects, your assignments and anyone's, what happened lately in a project, for one person or everywhere, and the roadmap's markers |
 | Client access | Share an item with a project's clients or hide it |
 | Yours | Bookmarks, reminders, your note, drafts, Up Next, today's plan, and every project's health gauge |

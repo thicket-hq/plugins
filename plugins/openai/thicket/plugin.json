@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "app-6a98974632548191bbb3ba2ddfe1d894",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Work in your Thicket projects from ChatGPT: find what's due and who's responsible, turn notes into to-dos, post updates, move cards and log time, with your account's permissions.",
   "author": {
     "name": "Vesperion Gate Inc.",
@@ -113,7 +113,7 @@
           "IE",
           "NZ"
         ],
-        "release_notes": "Version 1.0.3: Updates the review cases to match Review Co's current sample projects and the verified tool behavior. Thicket's approval screen offers Read-only access or Full access whenever ChatGPT asks to make changes, and the privacy policy and terms links use thickethq.com. Connects ChatGPT to the Thicket organizations you authorize, with your own access. Changes are made under your name and may notify other people. Items moved to Trash can be restored in Thicket for 30 days before permanent deletion. Disconnect at any time in Thicket under My settings → Connected apps."
+        "release_notes": "Version 1.0.4: The bundled thicket skill and the listing describe a project's tools by Thicket's names: boards and a calendar. Version 1.0.3 updated the review cases to match Review Co's current sample projects and the verified tool behavior. Thicket's approval screen offers Read-only access or Full access whenever ChatGPT asks to make changes, and the privacy policy and terms links use thickethq.com. Connects ChatGPT to the Thicket organizations you authorize, with your own access. Changes are made under your name and may notify other people. Items moved to Trash can be restored in Thicket for 30 days before permanent deletion. Disconnect at any time in Thicket under My settings → Connected apps."
       }
     }
   }

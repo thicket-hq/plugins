@@ -5,7 +5,7 @@ description: Find, read, create and update Thicket project-management data throu
 
 # Working in Thicket
 
-Thicket is project management software. An organization holds projects; a project holds to-do lists, a message board, docs and files, card tables, a schedule, chat and, when it is turned on, a timesheet. Every tool runs as the person who connected Thicket, with their access: an item they cannot see does not exist here.
+Thicket is project management software. An organization holds projects; a project holds to-do lists, a message board, docs and files, boards, a calendar, chat and, when it is turned on, a timesheet. Every tool runs as the person who connected Thicket, with their access: an item they cannot see does not exist here.
 
 ## Find things top down
 
