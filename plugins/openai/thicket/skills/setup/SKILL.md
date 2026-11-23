@@ -13,6 +13,6 @@ description: Set up the Thicket plugin after it is installed. Confirm the connec
    - "Turn these meeting notes into to-dos on <a list> and assign them."
    - "Draft a Friday update for <project> from the to-dos we finished this week."
    - "Log an hour and a half on <a to-do> for yesterday."
-4. Explain the access boundaries: ChatGPT sees and does only what the person can in Thicket, with Read-only access or Full access as they approved it. Changes are made under their name and may notify other people. They can disconnect at any time from My settings, Connected apps, in Thicket.
+4. Explain the access boundaries: ChatGPT sees and does only what the person can in Thicket, with Read-only access or Full access as they approved it. Changes are made under their name and may notify other people. They can disconnect at any time from Me, under Connected Apps, in Thicket.
 
 Keep it to one short message, then wait for what they want to do first.

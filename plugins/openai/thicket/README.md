@@ -22,7 +22,7 @@ Zip the `thicket` folder to upload it: `cd plugins/openai && zip -r thicket.zip 
 
 - Tool calls run as the Thicket person who approves the connection, with that person's permissions. On Thicket's approval screen they pick Read-only access or Full access. Changes are attributed to them.
 - Items moved to Trash can be restored in Thicket for 30 days before permanent deletion.
-- Disconnect any time from **My settings, Connected apps** in Thicket. The next request is refused.
+- Disconnect any time from **Me → Connected Apps** in Thicket. The next request is refused.
 
 ## Docs
 

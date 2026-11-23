@@ -47,7 +47,7 @@ Sign-in is OAuth 2.1 with PKCE. Cursor registers itself with Thicket and opens T
 
 - Tool calls run as the Thicket person who approves the connection, with that person's permissions. Changes are attributed to them.
 - Trashed items stay recoverable from Thicket's Trash for 30 days. The connector never deletes anything permanently.
-- Disconnect any time from **My settings → Connected apps** in Thicket. The next request is refused.
+- Disconnect any time from **Me → Connected Apps** in Thicket. The next request is refused.
 
 ## Docs
 
