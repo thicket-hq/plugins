@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "app-6a98974632548191bbb3ba2ddfe1d894",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Work in your Thicket projects from ChatGPT: find what's due and who's responsible, turn notes into to-dos, post updates, move cards and log time, with your account's permissions.",
   "author": {
     "name": "Vesperion Gate Inc.",
@@ -25,7 +25,7 @@
       "interface": {
         "displayName": "Thicket - Project Management",
         "shortDescription": "Manage projects and to-dos",
-        "longDescription": "Thicket is project management software for organizing work, keeping responsibilities and deadlines clear, and working together in one place.\n\nUse ChatGPT to find what's due and who's responsible, summarize project conversations, and turn meeting notes into assigned to-dos. Post project updates, comment on discussions, move cards between board columns, check schedules, and log time.\n\nYou stay in control. ChatGPT sees and does only what you can in Thicket, nothing more. When you approve access, pick Read-only access or Full access. In ChatGPT you can require approval before it posts or changes anything, and you can disconnect anytime.\n\nChanges are made under your name and may notify other people. Disconnect in Thicket under Me → Connected Apps.",
+        "longDescription": "Thicket is project management software. Use ChatGPT to see what’s due in your projects, who’s responsible, and what people have decided in a discussion.\n\nTurn meeting notes into assigned to-dos, post a project update, move cards between board columns, check the schedule, or log time.\n\nWhen you connect, choose Read-only access or Full access. ChatGPT works within your Thicket permissions. Changes it makes appear under your name and may notify other people. To disconnect, open Me → Connected Apps in Thicket.",
         "developerName": "Vesperion Gate Inc.",
         "category": "Productivity",
         "capabilities": [
@@ -113,7 +113,7 @@
           "IE",
           "NZ"
         ],
-        "release_notes": "Version 1.0.5: Updated the listing, the bundled setup skill and the package documentation to name where to disconnect in Thicket: Me → Connected Apps."
+        "release_notes": "Version 1.0.6 clarifies what you can do from ChatGPT and how Thicket permissions apply. The listing, setup skill and README show where to disconnect in Thicket (Me → Connected Apps). The README now points to the published plugin."
       }
     }
   }

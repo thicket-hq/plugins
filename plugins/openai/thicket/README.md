@@ -6,7 +6,7 @@ Find, read and update to-dos, cards, messages, comments, docs, calendar events, 
 
 ## Install
 
-Open **Plugins** in ChatGPT, search for **Thicket**, click **Install**, then sign in to Thicket and approve access. Until the listing is live, ChatGPT's Developer mode takes the same server as a custom MCP server; the steps are at https://www.thickethq.com/ai.
+Open [Thicket - Project Management](https://chatgpt.com/plugins/plugin_asdk_app_6a98974632548191bbb3ba2ddfe1d894) in ChatGPT’s plugin directory and choose **Install plugin**. Sign in to Thicket, choose **Read-only access** or **Full access**, then click **Allow**.
 
 ## Package
 
